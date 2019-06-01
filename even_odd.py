@@ -4,7 +4,7 @@ This will:
 1. Print whether the number is even/odd.
 2. Display that number with the next 9 similar (i.e. even or odd) numbers.
 3. Display an error message if a float is input.
-
+First exercise
 '''
 
 def is_even(n):
